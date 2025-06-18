@@ -9,7 +9,7 @@ repository = "https://github.com/laurent22/joplin"
 keywords = ["onenote"]
 
 [dependencies]
-askama = "0.10"
+askama = "0.12"
 color-eyre = "0.5"
 log = "0.4.11"
 mime_guess = "2.0.3"
